@@ -1,0 +1,6 @@
+{
+  "name": "GridPulse US",
+  "description": "A high-precision real-time monitoring dashboard for the US electric power grid (Lower 48), featuring fuel source generation, demand forecasting, and net interchanges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Data Visualization", "Real-time Monitoring"]
+}
